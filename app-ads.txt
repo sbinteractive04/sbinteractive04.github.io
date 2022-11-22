@@ -1,2 +1,3 @@
 applovin.com, 86e9b272e9767d1b9df9ebeb027b85f4, DIRECT
 facebook.com, 133615862655019, RESELLER, c3e20eee3f780d68
+google.com, pub-1739851132992770, DIRECT, f08c47fec0942fa0
